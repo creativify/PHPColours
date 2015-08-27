@@ -7,7 +7,7 @@ Inspired mainly by https://github.com/mexitek/phpColors which requires to create
 # Usage
 
 ```php
-require_once('Colors.php'); 
+require_once('Colour.php'); 
 use Vayes\PHPColours\Colour;
 ```
 
